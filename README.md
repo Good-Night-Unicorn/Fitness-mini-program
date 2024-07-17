@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/99307b5c-70ef-464d-91bd-38957aca8754)
+
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
 
 **作者QQ：3042127848 微信：FY-yuanma (支持修改、部署调试、支持代做毕设)**
